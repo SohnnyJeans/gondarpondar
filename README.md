@@ -1,4 +1,4 @@
-# Three.js Game
+# JOMBEE 
 
 A simple 3D game built with Three.js.
 
